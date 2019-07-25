@@ -14,6 +14,7 @@ const toolbar = (props) => (
 
         <div className={classes.Logo}>
             <Logo />
+            <p></p>
          </div>
         
 
